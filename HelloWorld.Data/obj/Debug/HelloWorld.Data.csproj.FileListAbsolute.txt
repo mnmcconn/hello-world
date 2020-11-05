@@ -1,0 +1,10 @@
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll.config
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\HelloWorld.Data.dll
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\HelloWorld.Data.pdb
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\EntityFramework.dll
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\EntityFramework.xml
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\obj\Debug\HelloWorld.Data.csproj.CopyComplete
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\obj\Debug\HelloWorld.Data.dll
+C:\Users\mmcconnell\source\repos\HelloWorld.Data\obj\Debug\HelloWorld.Data.pdb

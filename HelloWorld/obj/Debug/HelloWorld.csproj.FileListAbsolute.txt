@@ -1,0 +1,12 @@
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\mmcconnell\source\repos\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\mmcconnell\source\repos\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\mmcconnell\source\repos\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.Data.dll
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\EntityFramework.dll
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.Data.pdb
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\HelloWorld.Data.dll.config
+C:\Users\mmcconnell\source\repos\HelloWorld\bin\Debug\EntityFramework.xml
+C:\Users\mmcconnell\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete
